@@ -1,0 +1,11 @@
+Équipe : Golden State Warriors
+Pays : USA
+Ville : San Francisco
+- Stephen Curry, Date de naissance : 1988-03-14, Taille : 188 cm, Poids : 84 kg, Poste : Meneur, Numéro : 30, Année de rejoint : 2009
+- Klay Thompson, Date de naissance : 1990-02-08, Taille : 198 cm, Poids : 98 kg, Poste : Arrière, Numéro : 11, Année de rejoint : 2011
+- Draymond Green, Date de naissance : 1990-03-04, Taille : 198 cm, Poids : 104 kg, Poste : Ailier fort, Numéro : 23, Année de rejoint : 2012
+- Andrew Wiggins, Date de naissance : 1995-02-23, Taille : 201 cm, Poids : 89 kg, Poste : Ailier, Numéro : 22, Année de rejoint : 2020
+- Kevon Looney, Date de naissance : 1996-02-06, Taille : 206 cm, Poids : 101 kg, Poste : Pivot, Numéro : 5, Année de rejoint : 2015
+- Jordan Poole, Date de naissance : 1999-06-19, Taille : 193 cm, Poids : 88 kg, Poste : Arrière, Numéro : 3, Année de rejoint : 2019
+- Donte DiVincenzo, Date de naissance : 1997-01-31, Taille : 193 cm, Poids : 92 kg, Poste : Arrière, Numéro : 0, Année de rejoint : 2022
+- Moses Moody, Date de naissance : 2002-05-31, Taille : 198 cm, Poids : 93 kg, Poste : Arrière, Numéro : 4, Année de rejoint : 2021

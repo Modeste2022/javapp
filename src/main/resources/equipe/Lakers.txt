@@ -1,0 +1,11 @@
+Équipe : Los Angeles Lakers
+Pays : USA
+Ville : Los Angeles
+- LeBron James, Date de naissance : 1984-12-30, Taille : 206 cm, Poids : 113 kg, Poste : Ailier, Numéro : 6, Année de rejoint : 2018
+- Anthony Davis, Date de naissance : 1993-03-11, Taille : 208 cm, Poids : 115 kg, Poste : Pivot, Numéro : 3, Année de rejoint : 2019
+- D'Angelo Russell, Date de naissance : 1996-02-23, Taille : 193 cm, Poids : 88 kg, Poste : Meneur, Numéro : 1, Année de rejoint : 2023
+- Austin Reaves, Date de naissance : 1998-05-29, Taille : 196 cm, Poids : 89 kg, Poste : Arrière, Numéro : 15, Année de rejoint : 2021
+- Rui Hachimura, Date de naissance : 1998-02-08, Taille : 203 cm, Poids : 104 kg, Poste : Ailier fort, Numéro : 28, Année de rejoint : 2023
+- Jarred Vanderbilt, Date de naissance : 1999-04-03, Taille : 206 cm, Poids : 97 kg, Poste : Ailier fort, Numéro : 2, Année de rejoint : 2023
+- Malik Beasley, Date de naissance : 1996-11-26, Taille : 193 cm, Poids : 89 kg, Poste : Arrière, Numéro : 5, Année de rejoint : 2023
+- Dennis Schröder, Date de naissance : 1993-09-15, Taille : 185 cm, Poids : 78 kg, Poste : Meneur, Numéro : 17, Année de rejoint : 2022

@@ -1,0 +1,11 @@
+Équipe : Brooklyn Nets
+Pays : USA
+Ville : Brooklyn
+- Kevin Durant, Date de naissance : 1988-09-29, Taille : 208 cm, Poids : 109 kg, Poste : Ailier, Numéro : 7, Année de rejoint : 2019
+- Kyrie Irving, Date de naissance : 1992-03-23, Taille : 188 cm, Poids : 88 kg, Poste : Meneur, Numéro : 11, Année de rejoint : 2019
+- Nic Claxton, Date de naissance : 1999-04-17, Taille : 211 cm, Poids : 98 kg, Poste : Pivot, Numéro : 33, Année de rejoint : 2019
+- Joe Harris, Date de naissance : 1991-09-06, Taille : 198 cm, Poids : 99 kg, Poste : Arrière, Numéro : 12, Année de rejoint : 2016
+- Seth Curry, Date de naissance : 1990-08-23, Taille : 188 cm, Poids : 84 kg, Poste : Arrière, Numéro : 30, Année de rejoint : 2022
+- Royce O'Neale, Date de naissance : 1993-06-05, Taille : 196 cm, Poids : 98 kg, Poste : Ailier, Numéro : 00, Année de rejoint : 2022
+- Cam Thomas, Date de naissance : 2001-10-13, Taille : 193 cm, Poids : 95 kg, Poste : Arrière, Numéro : 24, Année de rejoint : 2021
+- T.J. Warren, Date de naissance : 1993-09-05, Taille : 203 cm, Poids : 100 kg, Poste : Ailier, Numéro : 1, Année de rejoint : 2022
